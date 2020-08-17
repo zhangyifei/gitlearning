@@ -1,2 +1,2 @@
 # gitlearning
-gitlearning
+gitlearning is quick
