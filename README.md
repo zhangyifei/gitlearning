@@ -1,2 +1,2 @@
 # gitlearning
-gitlearning and simple and easy
+gitlearning quick and simple and easy
