@@ -2,3 +2,5 @@ test rebase
 
 test11
 test rebase
+test rebase -it 1 
+2
